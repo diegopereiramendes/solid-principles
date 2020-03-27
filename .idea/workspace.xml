@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e9e8fab-c103-490b-a669-0077cd297b64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed/new_code/AluguelDiferenciado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed/new_code/AluguelPadrao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed/new_code/CalculadoraAluguel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed/new_code/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed/new_code/MainFake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed/new_code/interfaces/Aluguel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed/old_code/AluguelPadrao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed/old_code/CalculadoraAluguel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed/old_code/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/i_single_responsibility/new_code/PrecoFinalBMW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/i_single_responsibility/new_code/PrecoFinalBMW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/i_single_responsibility/new_code/PrecoFinalFerrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/i_single_responsibility/new_code/PrecoFinalFerrari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/i_single_responsibility/new_code/PrecoFinalFusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/i_single_responsibility/new_code/PrecoFinalFusca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/i_single_responsibility/new_code/TipoCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/i_single_responsibility/new_code/TipoCarro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/i_single_responsibility/old_code/CalculadoraPrecoFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/i_single_responsibility/old_code/CalculadoraPrecoFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed/old_code/CalculadoraAluguel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed/old_code/CalculadoraAluguel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed/new_code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -64,6 +51,7 @@
       <recent name="com.diegomendes.solid.principles.i_single_responsibility.new_code" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed" />
       <recent name="$PROJECT_DIR$/src/main/java/com/diegomendes/solid/principles/ii_open_closed/new_code" />
       <recent name="$PROJECT_DIR$" />
     </key>
