@@ -1,5 +1,4 @@
 **Dependency Inversion Principle**
 - devemos depender de abstrações e não de classes concretas
 
-Cenário do código: *Semelhando ao cenário do principio no package `ii_open_closed`, porque no exemplo utilizamos o DIP
-para aplicar o `Open Closed Principle`*
+Cenário do código: Cenário do código: Imagine um cenário no qual você deseja calcular o preço de alguel para cada inquilino através de uma tabela de preço, mas futuramente você também terá uma nova tabela de Preço Diferenciada para alguns clientes, a ideia é mostrar o custo de desenvolvimento disso
