@@ -2,7 +2,7 @@ package com.diegomendes.solid.principles.v_dependency_inversion.new_code.interfa
 
 import com.diegomendes.solid.principles.v_dependency_inversion.new_code.Cliente;
 
-public interface TipoAluguel {
+public interface Aluguel {
 
-  public Double valorAluguel(final Cliente cliente);
+  public Double calcularAluguel(final Cliente cliente);
 }

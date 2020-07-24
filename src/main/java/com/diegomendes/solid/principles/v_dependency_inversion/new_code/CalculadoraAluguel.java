@@ -1,16 +1,16 @@
 package com.diegomendes.solid.principles.v_dependency_inversion.new_code;
 
-import com.diegomendes.solid.principles.v_dependency_inversion.new_code.interfaces.TipoAluguel;
+import com.diegomendes.solid.principles.v_dependency_inversion.new_code.interfaces.Aluguel;
 
 public class CalculadoraAluguel {
 
-  private TipoAluguel tipoAluguel; //UTILIZAÇÃO DIP, estamos dependendo da abstração e não de uma implementação
+  private Aluguel aluguel; //UTILIZAÇÃO DIP, estamos dependendo da abstração e não de uma implementação
 
-  public CalculadoraAluguel(TipoAluguel tipoAluguel) {
-    this.tipoAluguel = tipoAluguel;
+  public CalculadoraAluguel(Aluguel aluguel) {
+    this.aluguel = aluguel;
   }
 
   public Double calcula(final Cliente cliente){
-    return tipoAluguel.valorAluguel(cliente);
+    return aluguel.calcularAluguel(cliente);
   }
 }
