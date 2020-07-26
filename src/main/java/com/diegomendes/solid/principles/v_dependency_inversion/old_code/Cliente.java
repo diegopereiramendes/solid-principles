@@ -4,22 +4,9 @@ package com.diegomendes.solid.principles.v_dependency_inversion.old_code;
 public class Cliente {
 
   private String nome;
-  private Integer idade;
 
-  //GETTER e SETTER
-  public String getNome() {
-    return nome;
-  }
-
-  public void setNome(String nome) {
+  public Cliente(String nome) {
     this.nome = nome;
   }
 
-  public Integer getIdade() {
-    return idade;
-  }
-
-  public void setIdade(Integer idade) {
-    this.idade = idade;
-  }
 }

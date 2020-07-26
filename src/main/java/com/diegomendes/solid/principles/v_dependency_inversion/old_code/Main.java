@@ -5,6 +5,10 @@ public class Main {
   public static void main(String[] args) {
     CalculadoraAluguel calculadoraAluguel = new CalculadoraAluguel() ;
 
-    calculadoraAluguel.calcularAluguelPadrao(new Cliente());
+    Double calculoDiego = calculadoraAluguel.calcularAluguelPadrao();
+    Double calculoTiago = calculadoraAluguel.calcularAluguelDiferenciado();
+
+    System.out.println("Aluguel Diego:" + calculoDiego);
+    System.out.println("Aluguel Tiago:" + calculoTiago);
   }
 }

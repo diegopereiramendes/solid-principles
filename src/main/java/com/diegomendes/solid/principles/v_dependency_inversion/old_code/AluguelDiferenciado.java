@@ -1,8 +1,8 @@
 package com.diegomendes.solid.principles.v_dependency_inversion.old_code;
 
-public class AluguelPadrao {
+public class AluguelDiferenciado {
 
   public Double calcularAluguel(){
-      return 1000.00;
+      return 800.00;
   }
 }

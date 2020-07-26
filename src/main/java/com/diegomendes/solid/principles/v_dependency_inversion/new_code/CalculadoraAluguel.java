@@ -10,7 +10,7 @@ public class CalculadoraAluguel {
     this.aluguel = aluguel;
   }
 
-  public Double calcula(final Cliente cliente){
-    return aluguel.calcularAluguel(cliente);
+  public Double calcularAluguel(){
+    return aluguel.calcularAluguel();
   }
 }

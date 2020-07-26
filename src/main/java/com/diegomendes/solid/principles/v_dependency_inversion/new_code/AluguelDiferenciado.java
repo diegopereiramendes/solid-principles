@@ -4,12 +4,7 @@ import com.diegomendes.solid.principles.v_dependency_inversion.new_code.interfac
 
 public class AluguelDiferenciado implements Aluguel {
 
-  public Double calcularAluguel(final Cliente cliente){
-    if(cliente.getIdade() > 60){
-      return 400.00;
-    }
-    else{
-      return 700.00;
-    }
+  public Double calcularAluguel(){
+    return 800.00;
   }
 }
