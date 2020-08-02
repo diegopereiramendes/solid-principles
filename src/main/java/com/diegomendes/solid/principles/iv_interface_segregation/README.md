@@ -1,5 +1,9 @@
 **Interface Segregation Principle**
-- clientes não devem ser forçados a depender de métodos que não usam.
+- Uma classe não deve ser forçada a implementar interfaces e métodos que não irá utilizar
 
-Cenário do código: *Imagine um cenário onde em uma empresa todos os tipos de funcionarios devem registrar ponto, 
-com exceção dos gerentes*
+Cenário do código: Imagine um cenário no qual você deseja calcular o preço de 
+aluguel para cada inquilino através de uma tabela de preço, mas futuramente você também 
+terá uma nova tabela de Preço Diferenciada para alguns clientes. Neste cenário todos que 
+tiverem Aluguel padrão não deverão pagar a taxa de água que custa R$ 50,00 
+de desenvolvimento disso.
+
