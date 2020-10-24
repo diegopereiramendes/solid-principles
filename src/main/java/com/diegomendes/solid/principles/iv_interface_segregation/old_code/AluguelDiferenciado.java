@@ -8,8 +8,8 @@ public class AluguelDiferenciado implements Aluguel {
     return 800.00;
   }
 
-  public Double calcularTaxaAgua() {
-    return 50.00;
+  public String gerarNotaFiscal() {
+    return null;
   }
 
 }

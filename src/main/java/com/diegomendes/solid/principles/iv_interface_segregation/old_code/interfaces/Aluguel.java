@@ -4,6 +4,6 @@ public interface Aluguel {
 
   public Double calcularAluguel();
 
-  public Double calcularTaxaAgua();
+  public String gerarNotaFiscal();
 
 }

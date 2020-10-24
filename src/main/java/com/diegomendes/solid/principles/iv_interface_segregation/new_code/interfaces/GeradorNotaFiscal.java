@@ -1,6 +1,6 @@
 package com.diegomendes.solid.principles.iv_interface_segregation.new_code.interfaces;
 
-public interface TaxaAgua {
+public interface GeradorNotaFiscal {
 
-    public Double calcularTaxaAgua();
+    public String gerarNotaFiscal();
 }

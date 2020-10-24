@@ -8,8 +8,8 @@ public class AluguelPadrao implements Aluguel {
     return 1000.00;
   }
 
-  public Double calcularTaxaAgua() {
-    return null;
+  public String gerarNotaFiscal() {
+    return "Nota Fiscal Gerada com sucesso";
   }
 
 }
